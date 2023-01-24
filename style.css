@@ -54,7 +54,6 @@ button {
   flex-direction: column;
 
   gap: 24px;
-  position:static;
 }
 
 .habit {
