@@ -15,8 +15,9 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: #09090a;
 
-  padding: 48px;
+  padding: 40px;
 
   position: fixed;
   width: 100%;
@@ -53,6 +54,7 @@ button {
   flex-direction: column;
 
   gap: 24px;
+  position:static;
 }
 
 .habit {
